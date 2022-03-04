@@ -5,7 +5,7 @@
 #include <vector>
 
 #include "LGUI_InputManager.hpp"
-#include "lgui_common.hpp"
+#include "LGUI_common.hpp"
 
 namespace lgfx
 {
