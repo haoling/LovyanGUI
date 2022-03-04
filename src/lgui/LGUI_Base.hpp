@@ -7,15 +7,6 @@
 #include "LGUI_InputManager.hpp"
 #include "LGUI_common.hpp"
 
-namespace lgfx
-{
-  class IFont;
-  class bgr888_t;
-  class LGFX_Device;
-  class LGFX_Sprite;
-  class LovyanGFX;
-}
-
 typedef lgfx::LovyanGFX LovyanGFX;
 typedef lgfx::LGFX_Device LGFX_Device;
 typedef lgfx::LGFX_Sprite LGFX_Sprite;
